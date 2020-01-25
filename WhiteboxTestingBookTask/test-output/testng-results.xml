@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="14052" started-at="2020-01-24T22:47:23 PST" finished-at="2020-01-24T22:47:37 PST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="14052" started-at="2020-01-24T22:47:23 PST" finished-at="2020-01-24T22:47:37 PST">
+      <class name="com.WhiteboxTestingBookTask.Login.DownloadBook">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.WhiteboxTestingBookTask.Login.DownloadBook@1efed156]" name="setup" is-config="true" duration-ms="6102" started-at="2020-01-24T22:47:23 PST" finished-at="2020-01-24T22:47:29 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="DownloadBookApacheJmeter()[pri:0, instance:com.WhiteboxTestingBookTask.Login.DownloadBook@1efed156]" name="DownloadBookApacheJmeter" duration-ms="7921" started-at="2020-01-24T22:47:29 PST" finished-at="2020-01-24T22:47:37 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DownloadBookApacheJmeter -->
+      </class> <!-- com.WhiteboxTestingBookTask.Login.DownloadBook -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
